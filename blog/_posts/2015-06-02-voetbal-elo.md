@@ -33,7 +33,7 @@ utilities: highlight
 <script src="/assets/js/moment/moment.js"></script>
 
 
-<!--<script type="text/javascript" src="/assets/js/voetbalelo/voetbalelo.js"></script> -->
+<script type="text/javascript" src="/assets/js/voetbalelo/voetbalelo.js"></script> 
 <script>
   // {#On document ready, load stuff#}
   elo_evolution = {{ site.data.elo-evolution | jsonify }}
